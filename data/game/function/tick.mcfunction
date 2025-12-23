@@ -1,0 +1,1 @@
+execute as @a if score @s gameState matches 0 run function game:timer
