@@ -1,0 +1,2 @@
+#$give @a[scores={deathCount=0}] minecraft:compass[minecraft:lodestone_tracker={target:{dimension:"minecraft:overworld",pos:$(key1)}, tracked:false}, minecraft:custom_name={"color":"aqua","italic":false,"text":"Tracker Compass"}] 1
+$item replace block 0 -64 0 container.0 with minecraft:compass[minecraft:lodestone_tracker={target:{dimension:"minecraft:overworld",pos:$(key1)}, tracked:false}, minecraft:custom_name={"color":"aqua","italic":false,"text":"Tracker Compass"}] 1
